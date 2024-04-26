@@ -27,13 +27,13 @@ const FrameComponent: NextPage = () => {
                 </div>
               </div>
               <div className="flex flex-row items-start justify-start gap-[1.5rem] max-w-full mq450:flex-wrap">
-                <button className="cursor-pointer [border:none] py-[1.281rem] px-[2.187rem] bg-text-heading-color rounded-21xl overflow-hidden flex flex-row items-start justify-start whitespace-nowrap hover:bg-dimgray">
-                  <div className="relative text-[1rem] leading-[120%] font-font text-white text-left inline-block min-w-[5.188rem]">
+                <button className="cursor-pointer [border:none] py-[1.281rem] px-[2.187rem] bg-localhost-mine-shaft rounded-21xl overflow-hidden flex flex-row items-start justify-start whitespace-nowrap hover:bg-dimgray">
+                  <div className="relative text-[1rem] leading-[120%] font-font text-localhost-yellow text-left inline-block min-w-[5.188rem]">
                     Book Now!
                   </div>
                 </button>
-                <button className="cursor-pointer py-[1.187rem] px-[2.125rem] bg-white rounded-21xl overflow-hidden flex flex-row items-start justify-start whitespace-nowrap border-[1px] border-solid border-gray-color hover:bg-gainsboro hover:box-border hover:border-[1px] hover:border-solid hover:border-gray-100">
-                  <div className="relative text-[1rem] leading-[120%] font-font text-text-heading-color text-left inline-block min-w-[5.375rem]">
+                <button className="cursor-pointer py-[1.187rem] px-[2.125rem] bg-localhost-yellow rounded-21xl overflow-hidden flex flex-row items-start justify-start whitespace-nowrap border-[1px] border-solid border-localhost-silver hover:bg-gainsboro hover:box-border hover:border-[1px] hover:border-solid hover:border-gray-100">
+                  <div className="relative text-[1rem] leading-[120%] font-font text-localhost-mine-shaft text-left inline-block min-w-[5.375rem]">
                     Read More
                   </div>
                 </button>

@@ -16,16 +16,16 @@ const Hero: NextPage = () => {
               Your will have everything nearby supermarket, buses , station, the
               carmen neighborhood, etc
             </div>
-            <div className="w-[27.375rem] rounded-21xl bg-white flex flex-row items-start justify-between py-[0rem] pr-[0rem] pl-[1.5rem] box-border gap-[1.25rem] max-w-full text-gray-300 mq450:flex-wrap mq450:pl-[1.25rem] mq450:pr-[1.25rem] mq450:pb-[1.25rem] mq450:box-border">
-              <div className="self-stretch w-[27.375rem] relative rounded-21xl bg-white hidden max-w-full" />
+            <div className="w-[27.375rem] rounded-21xl bg-localhost-yellow flex flex-row items-start justify-between py-[0rem] pr-[0rem] pl-[1.5rem] box-border gap-[1.25rem] max-w-full text-gray-300 mq450:flex-wrap mq450:pl-[1.25rem] mq450:pr-[1.25rem] mq450:pb-[1.25rem] mq450:box-border">
+              <div className="self-stretch w-[27.375rem] relative rounded-21xl bg-localhost-yellow hidden max-w-full" />
               <div className="flex flex-col items-start justify-start pt-[1.125rem] px-[0rem] pb-[0rem]">
                 <div className="relative leading-[1.5rem] z-[1]">
                   Enter your email
                 </div>
               </div>
-              <button className="cursor-pointer [border:none] py-[1.125rem] px-[1.562rem] bg-text-heading-color rounded-21xl flex flex-row items-start justify-start whitespace-nowrap z-[1] hover:bg-dimgray">
-                <div className="h-[3.75rem] w-[9.188rem] relative rounded-21xl bg-text-heading-color hidden" />
-                <div className="relative text-[1rem] leading-[1.5rem] font-semibold font-font text-white text-left inline-block min-w-[6.063rem] z-[1]">
+              <button className="cursor-pointer [border:none] py-[1.125rem] px-[1.562rem] bg-localhost-mine-shaft rounded-21xl flex flex-row items-start justify-start whitespace-nowrap z-[1] hover:bg-dimgray">
+                <div className="h-[3.75rem] w-[9.188rem] relative rounded-21xl bg-localhost-mine-shaft hidden" />
+                <div className="relative text-[1rem] leading-[1.5rem] font-semibold font-font text-localhost-yellow text-left inline-block min-w-[6.063rem] z-[1]">
                   Get a Quote
                 </div>
               </button>

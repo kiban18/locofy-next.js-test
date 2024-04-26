@@ -7,35 +7,37 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        white1: "#fff",
-        white: "#fefeff",
-        "text-heading-color": "#1f1f1f",
-        dimgray: "#525252",
+        "localhost-nero": "#fff",
+        "localhost-alabaster": "#fafafa",
+        "localhost-silver": "#bebebe",
+        "localhost-yellow": "#fefeff",
+        gainsboro: "#e6e6e6",
         gray: {
           "100": "#8a8a8a",
-          "200": "#1e1e1e",
           "300": "rgba(0, 0, 0, 0.45)",
         },
+        "localhost-mine-shaft": "#1f1f1f",
+        "localhost-cod-gray": "#1e1e1e",
+        dimgray: "#525252",
         black: "#000",
-        "gray-color": "#bebebe",
-        gainsboro: "#e6e6e6",
-        "gray-2": "#fafafa",
       },
       spacing: {},
       fontFamily: {
+        roboto: "Roboto",
         font: "Poppins",
       },
       borderRadius: {
-        mini: "15px",
-        "21xl": "40px",
         "51xl": "70px",
+        "21xl": "40px",
+        mini: "15px",
       },
     },
     fontSize: {
+      "3xl": "1.375rem",
+      "21xl": "2.5rem",
       base: "1rem",
       "31xl": "3.125rem",
       "11xl": "1.875rem",
-      "21xl": "2.5rem",
       "48xl": "4.188rem",
       "35xl": "3.375rem",
       "19xl": "2.375rem",
@@ -43,7 +45,6 @@ module.exports = {
       "2xl": "1.313rem",
       mid: "1.063rem",
       "9xl": "1.75rem",
-      "3xl": "1.375rem",
       inherit: "inherit",
     },
     screens: {
@@ -53,8 +54,20 @@ module.exports = {
       mq1100: {
         raw: "screen and (max-width: 1100px)",
       },
+      mq950: {
+        raw: "screen and (max-width: 950px)",
+      },
+      tablet: {
+        raw: "screen and (max-width: 900px)",
+      },
+      mq900: {
+        raw: "screen and (max-width: 900px)",
+      },
       mq750: {
         raw: "screen and (max-width: 750px)",
+      },
+      mq700: {
+        raw: "screen and (max-width: 700px)",
       },
       mq450: {
         raw: "screen and (max-width: 450px)",
