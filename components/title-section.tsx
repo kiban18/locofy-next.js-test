@@ -2,9 +2,9 @@ import type { NextPage } from "next";
 
 const TitleSection: NextPage = () => {
   return (
-    <section className="self-stretch flex flex-col items-center justify-start py-[11.968rem] px-[1.25rem] box-border gap-[1.5rem] bg-[url('/titlesection@3x.png')] bg-cover bg-no-repeat bg-[top] max-w-full text-center text-[2.5rem] text-localhost-nero font-roboto mq450:pt-[1.25rem] mq450:pb-[1.25rem] mq450:box-border mq900:pt-[7.75rem] mq900:pb-[7.75rem] mq900:box-border mq700:pt-[2.5rem] mq700:pb-[2.5rem] mq700:box-border mq950:pt-[7.75rem] mq950:pb-[7.75rem] mq950:box-border tablet:pt-[7.75rem] tablet:box-border">
+    <section className="self-stretch flex flex-col items-center justify-start py-[11.968rem] px-[1.25rem] box-border gap-[1.5rem] bg-[url('/titlesection@3x.png')] bg-cover bg-no-repeat bg-[top] max-w-full shrink-0 text-center text-[2.5rem] text-margin-nextjsvercelapp-nero font-margin-nextjsvercelapp-roboto-regular-24 mq450:pt-[1.25rem] mq450:pb-[1.25rem] mq450:box-border mq900:pt-[7.75rem] mq900:pb-[7.75rem] mq900:box-border mq800:pt-[2.5rem] mq800:pb-[2.5rem] mq800:box-border mq1125:pt-[7.75rem] mq1125:pb-[7.75rem] mq1125:box-border mq1300:pt-[7.75rem] mq1300:box-border">
       <div className="w-[24.125rem] flex flex-row items-start justify-center max-w-full">
-        <h1 className="m-0 relative text-inherit font-bold font-inherit mq450:text-[1rem] mq950:text-[2rem]">
+        <h1 className="m-0 relative text-inherit font-bold font-inherit mq450:text-[1rem] mq800:text-[2rem]">
           회장인사말
         </h1>
       </div>

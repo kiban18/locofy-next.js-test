@@ -7,69 +7,59 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        "localhost-nero": "#fff",
+        "margin-nextjsvercelapp-nero": "#fff",
+        "margin-nextjsvercelapp-cornflower-blue": "#4c86e7",
+        "margin-nextjsvercelapp-carnation": "#fa6262",
+        crimson: "#e04747",
+        "margin-nextjsvercelapp-slate-gray": "#6a798c",
+        "margin-nextjsvercelapp-gull-gray": "#94a3b8",
+        "margin-nextjsvercelapp-rhino": "#333b69",
         "localhost-alabaster": "#fafafa",
         "localhost-silver": "#bebebe",
         "localhost-yellow": "#fefeff",
         gainsboro: "#e6e6e6",
-        gray: {
-          "100": "#8a8a8a",
-          "300": "rgba(0, 0, 0, 0.45)",
-        },
+        gray: "#8a8a8a",
         "localhost-mine-shaft": "#1f1f1f",
         "localhost-cod-gray": "#1e1e1e",
-        dimgray: "#525252",
-        black: "#000",
       },
       spacing: {},
       fontFamily: {
-        roboto: "Roboto",
-        font: "Poppins",
+        "margin-nextjsvercelapp-roboto-regular-24": "Roboto",
+        poppins: "Poppins",
       },
       borderRadius: {
         "51xl": "70px",
         "21xl": "40px",
-        mini: "15px",
       },
     },
     fontSize: {
+      mini: "0.938rem",
+      base: "1rem",
+      "5xl": "1.5rem",
+      lgi: "1.188rem",
+      "45xl": "4rem",
+      "19xl": "2.375rem",
+      "32xl": "3.188rem",
+      "9xl": "1.75rem",
       "3xl": "1.375rem",
+      lg: "1.125rem",
       xs: "0.75rem",
       "21xl": "2.5rem",
-      base: "1rem",
       "13xl": "2rem",
-      "31xl": "3.125rem",
-      "11xl": "1.875rem",
-      "48xl": "4.188rem",
-      "35xl": "3.375rem",
-      "19xl": "2.375rem",
-      "4xl": "1.438rem",
-      "2xl": "1.313rem",
-      mid: "1.063rem",
-      "9xl": "1.75rem",
       inherit: "inherit",
     },
     screens: {
-      mq1250: {
-        raw: "screen and (max-width: 1250px)",
+      mq1300: {
+        raw: "screen and (max-width: 1300px)",
       },
-      mq1100: {
-        raw: "screen and (max-width: 1100px)",
-      },
-      mq950: {
-        raw: "screen and (max-width: 950px)",
-      },
-      tablet: {
-        raw: "screen and (max-width: 900px)",
+      mq1125: {
+        raw: "screen and (max-width: 1125px)",
       },
       mq900: {
         raw: "screen and (max-width: 900px)",
       },
-      mq750: {
-        raw: "screen and (max-width: 750px)",
-      },
-      mq700: {
-        raw: "screen and (max-width: 700px)",
+      mq800: {
+        raw: "screen and (max-width: 800px)",
       },
       mq450: {
         raw: "screen and (max-width: 450px)",
