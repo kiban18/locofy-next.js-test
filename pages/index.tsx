@@ -1,16 +1,13 @@
 import type { NextPage } from "next";
-import Header from "../components/header";
-import TitleSection from "../components/title-section";
-import PricingSection from "../components/pricing-section";
 
-const About: NextPage = () => {
+const Blank: NextPage = () => {
   return (
-    <div className="w-full relative bg-margin-nextjsvercelapp-nero overflow-hidden flex flex-col items-start justify-start pt-[1.25rem] px-[0rem] pb-[47.562rem] box-border gap-[5.812rem] leading-[normal] tracking-[normal] mq450:gap-[1.438rem] mq800:gap-[2.813rem]">
-      <Header />
-      <TitleSection />
-      <PricingSection />
+    <div className="w-full relative bg-kasprnet-nero h-[50rem] overflow-hidden text-left text-[1rem] text-kasprnet-black font-localhost-poppins-regular-16">
+      <div className="absolute top-[calc(50%_-_10px)] left-[calc(50%_-_23px)] leading-[1.2rem]">
+        blank
+      </div>
     </div>
   );
 };
 
-export default About;
+export default Blank;
