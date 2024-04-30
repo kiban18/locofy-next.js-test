@@ -56,7 +56,7 @@ const MenuItem: NextPage<MenuItemType> = ({
         style={linkStyle}
       >
         <div
-          className="self-stretch relative text-lg leading-[60px] font-text-large text-kasprnet-black text-center"
+          className="self-stretch relative text-lg leading-[60px] font-text-large text-tailwind-v332-black text-center"
           style={titleStyle}
         >
           {title}

@@ -96,7 +96,7 @@ const HeaderNavigation: NextPage<HeaderNavigationType> = ({
   }, [menu6Height]);
 
   return (
-    <div className="bg-kasprnet-catskill-white max-w-full flex flex-col items-center justify-start self-stretch md:hidden">
+    <div className="bg-tailwind-v332-slate-200 max-w-full flex flex-col items-center justify-start self-stretch md:hidden">
       <div
         className="w-[1300px] flex flex-col items-start justify-start py-0 px-[15px] box-border min-w-[960px] max-w-[1300px] lg:w-full md:w-full"
         style={containerStyle}

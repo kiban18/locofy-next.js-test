@@ -1,7 +1,6 @@
 import type { NextPage } from "next";
 import "bootstrap/dist/css/bootstrap.min.css";
 import { Form } from "react-bootstrap";
-import HeaderMobile from "../components/header-mobile";
 import HeaderAccount from "../components/header-account";
 import HeaderNavigation from "../components/header-navigation";
 import NavigationPopup from "../components/navigation-popup";
@@ -10,10 +9,25 @@ import Footer from "../components/footer";
 
 const Greeting: NextPage = () => {
   return (
-    <div className="w-full relative [background:linear-gradient(#fff,_#fff),_#fff] h-[57.275rem] overflow-y-auto flex flex-col items-start justify-start">
-      <header className="self-stretch bg-kasprnet-nero flex flex-col items-start justify-start">
+    <div className="w-full relative bg-tailwind-v332-white h-[57.275rem] overflow-y-auto flex flex-col items-start justify-start">
+      <header className="self-stretch bg-tailwind-v332-white flex flex-col items-start justify-start">
         <div className="self-stretch flex flex-col items-start justify-start">
-          <HeaderMobile />
+          <div className="self-stretch h-[3.875rem] bg-tailwind-v332-white flex flex-row items-center justify-between py-[0rem] px-[1.25rem] box-border md:bg-tailwind-v332-white md:flex md:items-center md:justify-between md:gap-[0rem] md:min-w-[21.25rem]">
+            <button className="cursor-pointer [border:none] p-0 bg-[transparent] flex flex-col items-start justify-start md:w-auto md:[align-self:unset]">
+              <div className="flex flex-col items-start justify-center">
+                <img
+                  className="w-[10rem] h-[1.406rem] overflow-hidden shrink-0 max-w-[10rem]"
+                  alt=""
+                  src="/logomosvg.svg"
+                />
+              </div>
+            </button>
+            <button className="cursor-pointer [border:none] p-0 bg-[transparent] w-[3rem] relative h-[3rem] md:flex">
+              <div className="absolute top-[0.875rem] right-[1rem] bg-tailwind-v332-sky-900 w-[1.5rem] h-[0.125rem]" />
+              <div className="absolute top-[1.438rem] right-[1rem] bg-tailwind-v332-sky-900 w-[1.5rem] h-[0.125rem]" />
+              <div className="absolute top-[2rem] right-[1rem] bg-tailwind-v332-sky-900 w-[1.5rem] h-[0.125rem]" />
+            </button>
+          </div>
           <HeaderAccount />
           <HeaderNavigation
             containerWidth="81.25rem"
@@ -35,7 +49,7 @@ const Greeting: NextPage = () => {
         </div>
       </header>
       <TitleSectionTypeA />
-      <section className="self-stretch flex flex-col items-start justify-start py-[1.25rem] px-[0rem] text-center text-[1.875rem] text-kasprnet-black font-text-large">
+      <section className="self-stretch flex flex-col items-start justify-start py-[1.25rem] px-[0rem] text-center text-[1.875rem] text-tailwind-v332-black font-text-large">
         <div className="self-stretch flex flex-col items-center justify-start">
           <h1 className="m-0 self-stretch relative text-inherit tracking-[-1px] leading-[3rem] font-semibold font-inherit">
             회장인사말

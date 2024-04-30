@@ -2,9 +2,9 @@ import type { NextPage } from "next";
 
 const MoMenuItemClose: NextPage = () => {
   return (
-    <button className="cursor-pointer [border:none] pt-0 px-0 pb-px bg-[transparent] box-border max-w-full flex flex-col items-start justify-start self-stretch border-b-[1px] border-solid border-gray-400">
+    <button className="cursor-pointer [border:none] pt-0 px-0 pb-px bg-[transparent] box-border max-w-full flex flex-col items-start justify-start self-stretch border-b-[1px] border-solid border-tailwind-v332-slate-200">
       <div className="self-stretch flex flex-col items-start justify-start py-3 px-4 relative">
-        <div className="self-stretch relative text-mini leading-[24px] font-kasprnet-noto-sans-kr-demilight-13 text-kasprnet-nero text-left z-[0]">
+        <div className="self-stretch relative text-mini leading-[24px] font-kasprnet-noto-sans-kr-demilight-13 text-tailwind-v332-white text-left z-[0]">
           학회 소식
         </div>
         <div className="w-4 !m-[0] absolute top-[20px] right-[16px] h-4 flex flex-col items-start justify-start z-[1]">

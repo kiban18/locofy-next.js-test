@@ -3,7 +3,7 @@ import MenuSubItem from "./menu-sub-item";
 
 const NavigationPopup: NextPage = () => {
   return (
-    <div className="bg-kasprnet-nero max-w-full flex flex-col items-start justify-start self-stretch md:hidden">
+    <div className="bg-tailwind-v332-white max-w-full flex flex-col items-start justify-start self-stretch md:hidden">
       <div className="self-stretch flex flex-col items-center justify-start">
         <div className="w-[1300px] flex flex-col items-start justify-start py-0 px-[15px] box-border min-w-[960px] max-w-[1300px] lg:w-full">
           <div className="self-stretch flex flex-row items-center justify-between">
