@@ -8,7 +8,7 @@ const MoMenuItemOpen: NextPage<MoMenuItemOpenType> = ({ title }) => {
   return (
     <button className="cursor-pointer [border:none] pt-0 px-0 pb-px bg-[transparent] box-border max-w-full flex flex-col items-start justify-start self-stretch border-b-[1px] border-solid border-gray-400">
       <div className="self-stretch flex flex-row items-center justify-start py-3 px-4">
-        <div className="flex-1 relative text-mini leading-[24px] font-kasprnet-noto-sans-kr-demilight-14 text-kasprnet-nero text-left">
+        <div className="flex-1 relative text-mini leading-[24px] font-kasprnet-noto-sans-kr-demilight-13 text-kasprnet-nero text-left">
           {title}
         </div>
         <div className="w-4 h-4 flex flex-col items-start justify-start [transform:_rotate(180deg)]">

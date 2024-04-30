@@ -53,7 +53,7 @@ const MenuSubItem: NextPage<MenuSubItemType> = ({
       style={menuSubItemStyle}
     >
       <div
-        className="self-stretch relative text-sm leading-[22.4px] font-kasprnet-noto-sans-kr-demilight-14 text-kasprnet-mine-shaft text-center"
+        className="self-stretch relative text-sm leading-[22.4px] font-kasprnet-noto-sans-kr-demilight-13 text-kasprnet-mine-shaft text-center"
         style={title1Style}
       >
         {title}
