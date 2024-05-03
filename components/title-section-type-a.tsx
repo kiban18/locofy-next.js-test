@@ -11,7 +11,7 @@ const TitleSectionTypeA: NextPage = () => {
             학회 소개
           </h1>
         </div>
-        <div className="self-stretch flex flex-col items-center justify-center text-base font-kasprnet-noto-sans-kr-demilight-13">
+        <div className="self-stretch flex flex-col items-center justify-center text-base font-kasprnet-noto-sans-kr-demilight-14">
           <div className="self-stretch relative tracking-[1.5px] font-medium md:text-xs">
             Korean Academic Society for Public Relations
           </div>

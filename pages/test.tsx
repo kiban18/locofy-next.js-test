@@ -31,7 +31,7 @@ const Test: NextPage = () => {
                       alt=""
                       src="/img.svg"
                     />
-                    <div className="w-[2.788rem] relative text-[0.875rem] leading-[1.4rem] font-kasprnet-noto-sans-kr-demilight-13 text-tailwind-v332-gray-800 text-left flex items-center h-[1.4rem] shrink-0">
+                    <div className="w-[2.788rem] relative text-[0.875rem] leading-[1.4rem] font-kasprnet-noto-sans-kr-demilight-14 text-tailwind-v332-gray-800 text-left flex items-center h-[1.4rem] shrink-0">
                       {" "}
                       로그인
                     </div>
@@ -42,7 +42,7 @@ const Test: NextPage = () => {
                       alt=""
                       src="/img1.svg"
                     />
-                    <div className="w-[3.625rem] relative text-[0.875rem] leading-[1.4rem] font-kasprnet-noto-sans-kr-demilight-13 text-tailwind-v332-gray-800 text-left flex items-center h-[1.4rem] shrink-0">
+                    <div className="w-[3.625rem] relative text-[0.875rem] leading-[1.4rem] font-kasprnet-noto-sans-kr-demilight-14 text-tailwind-v332-gray-800 text-left flex items-center h-[1.4rem] shrink-0">
                       {" "}
                       회원가입
                     </div>
@@ -137,152 +137,152 @@ const Test: NextPage = () => {
                   <div className="flex-1 flex flex-row items-start justify-between">
                     <div className="flex-1 flex flex-col items-center justify-start lg:w-[6.25rem]">
                       <button className="cursor-pointer [border:none] py-[0rem] px-[0.125rem] bg-[transparent] w-[9.375rem] h-[3.125rem] flex flex-col items-center justify-center box-border min-w-[6.25rem] max-w-[9.375rem] lg:w-[6.25rem]">
-                        <div className="self-stretch relative text-[0.875rem] leading-[1.4rem] font-kasprnet-noto-sans-kr-demilight-13 text-tailwind-v332-gray-800 text-center">
+                        <div className="self-stretch relative text-[0.875rem] leading-[1.4rem] font-kasprnet-noto-sans-kr-demilight-14 text-tailwind-v332-gray-800 text-center">
                           회장인사말
                         </div>
                       </button>
                       <button className="cursor-pointer [border:none] py-[0rem] px-[0.125rem] bg-[transparent] w-[9.375rem] h-[3.125rem] flex flex-col items-center justify-center box-border min-w-[6.25rem] max-w-[9.375rem] lg:w-[6.25rem]">
-                        <div className="self-stretch relative text-[0.875rem] leading-[1.4rem] font-kasprnet-noto-sans-kr-demilight-13 text-tailwind-v332-gray-800 text-center">
+                        <div className="self-stretch relative text-[0.875rem] leading-[1.4rem] font-kasprnet-noto-sans-kr-demilight-14 text-tailwind-v332-gray-800 text-center">
                           학회정관
                         </div>
                       </button>
                       <button className="cursor-pointer [border:none] py-[0rem] px-[0.125rem] bg-[transparent] w-[9.375rem] h-[3.125rem] flex flex-col items-center justify-center box-border min-w-[6.25rem] max-w-[9.375rem] lg:w-[6.25rem]">
-                        <div className="self-stretch relative text-[0.875rem] leading-[1.4rem] font-kasprnet-noto-sans-kr-demilight-13 text-tailwind-v332-gray-800 text-center">
+                        <div className="self-stretch relative text-[0.875rem] leading-[1.4rem] font-kasprnet-noto-sans-kr-demilight-14 text-tailwind-v332-gray-800 text-center">
                           선거관리규정
                         </div>
                       </button>
                       <button className="cursor-pointer [border:none] py-[0rem] px-[0.125rem] bg-[transparent] w-[9.375rem] h-[3.125rem] flex flex-col items-center justify-center box-border min-w-[6.25rem] max-w-[9.375rem] lg:w-[6.25rem]">
-                        <div className="self-stretch relative text-[0.875rem] leading-[1.4rem] font-kasprnet-noto-sans-kr-demilight-13 text-tailwind-v332-gray-800 text-center">
+                        <div className="self-stretch relative text-[0.875rem] leading-[1.4rem] font-kasprnet-noto-sans-kr-demilight-14 text-tailwind-v332-gray-800 text-center">
                           학회연혁
                         </div>
                       </button>
                       <button className="cursor-pointer [border:none] py-[0rem] px-[0.125rem] bg-[transparent] w-[9.375rem] h-[3.125rem] flex flex-col items-center justify-center box-border min-w-[6.25rem] max-w-[9.375rem] lg:w-[6.25rem]">
-                        <div className="self-stretch relative text-[0.875rem] leading-[1.4rem] font-kasprnet-noto-sans-kr-demilight-13 text-tailwind-v332-gray-800 text-center">
+                        <div className="self-stretch relative text-[0.875rem] leading-[1.4rem] font-kasprnet-noto-sans-kr-demilight-14 text-tailwind-v332-gray-800 text-center">
                           임원진
                         </div>
                       </button>
                       <button className="cursor-pointer [border:none] py-[0rem] px-[0.125rem] bg-[transparent] w-[9.375rem] h-[3.125rem] flex flex-col items-center justify-center box-border min-w-[6.25rem] max-w-[9.375rem] lg:w-[6.25rem]">
-                        <div className="self-stretch relative text-[0.875rem] leading-[1.4rem] font-kasprnet-noto-sans-kr-demilight-13 text-tailwind-v332-gray-800 text-center">
+                        <div className="self-stretch relative text-[0.875rem] leading-[1.4rem] font-kasprnet-noto-sans-kr-demilight-14 text-tailwind-v332-gray-800 text-center">
                           PR윤리헌장
                         </div>
                       </button>
                     </div>
                     <div className="flex-1 flex flex-col items-center justify-start lg:w-[6.25rem]">
                       <button className="cursor-pointer [border:none] py-[0rem] px-[0.125rem] bg-[transparent] w-[9.375rem] h-[3.125rem] flex flex-col items-center justify-center box-border min-w-[6.25rem] max-w-[9.375rem] lg:w-[6.25rem]">
-                        <div className="self-stretch relative text-[0.875rem] leading-[1.4rem] font-kasprnet-noto-sans-kr-demilight-13 text-tailwind-v332-gray-800 text-center">
+                        <div className="self-stretch relative text-[0.875rem] leading-[1.4rem] font-kasprnet-noto-sans-kr-demilight-14 text-tailwind-v332-gray-800 text-center">
                           공지사항
                         </div>
                       </button>
                       <button className="cursor-pointer [border:none] py-[0rem] px-[0.125rem] bg-[transparent] w-[9.375rem] h-[3.125rem] flex flex-col items-center justify-center box-border min-w-[6.25rem] max-w-[9.375rem] lg:w-[6.25rem]">
-                        <div className="self-stretch relative text-[0.875rem] leading-[1.4rem] font-kasprnet-noto-sans-kr-demilight-13 text-tailwind-v332-gray-800 text-center">
+                        <div className="self-stretch relative text-[0.875rem] leading-[1.4rem] font-kasprnet-noto-sans-kr-demilight-14 text-tailwind-v332-gray-800 text-center">
                           주요행사
                         </div>
                       </button>
                       <button className="cursor-pointer [border:none] py-[0rem] px-[0.125rem] bg-[transparent] w-[9.375rem] h-[3.125rem] flex flex-col items-center justify-center box-border min-w-[6.25rem] max-w-[9.375rem] lg:w-[6.25rem]">
-                        <div className="self-stretch relative text-[0.875rem] leading-[1.4rem] font-kasprnet-noto-sans-kr-demilight-13 text-tailwind-v332-gray-800 text-center">
+                        <div className="self-stretch relative text-[0.875rem] leading-[1.4rem] font-kasprnet-noto-sans-kr-demilight-14 text-tailwind-v332-gray-800 text-center">
                           공모안내
                         </div>
                       </button>
                       <button className="cursor-pointer [border:none] py-[0rem] px-[0.125rem] bg-[transparent] w-[9.375rem] h-[3.125rem] flex flex-col items-center justify-center box-border min-w-[6.25rem] max-w-[9.375rem] lg:w-[6.25rem]">
-                        <div className="self-stretch relative text-[0.875rem] leading-[1.4rem] font-kasprnet-noto-sans-kr-demilight-13 text-tailwind-v332-gray-800 text-center">
+                        <div className="self-stretch relative text-[0.875rem] leading-[1.4rem] font-kasprnet-noto-sans-kr-demilight-14 text-tailwind-v332-gray-800 text-center">
                           학회앨범
                         </div>
                       </button>
                       <button className="cursor-pointer [border:none] py-[0rem] px-[0.125rem] bg-[transparent] w-[9.375rem] h-[3.125rem] flex flex-col items-center justify-center box-border min-w-[6.25rem] max-w-[9.375rem] lg:w-[6.25rem]">
-                        <div className="self-stretch relative text-[0.875rem] leading-[1.4rem] font-kasprnet-noto-sans-kr-demilight-13 text-tailwind-v332-gray-800 text-center">
+                        <div className="self-stretch relative text-[0.875rem] leading-[1.4rem] font-kasprnet-noto-sans-kr-demilight-14 text-tailwind-v332-gray-800 text-center">
                           언론보도
                         </div>
                       </button>
                     </div>
                     <div className="flex-1 flex flex-col items-center justify-start lg:w-[6.25rem]">
                       <button className="cursor-pointer [border:none] py-[0rem] px-[0.125rem] bg-[transparent] w-[9.375rem] h-[3.125rem] flex flex-col items-center justify-center box-border min-w-[6.25rem] max-w-[9.375rem] lg:w-[6.25rem]">
-                        <div className="self-stretch relative text-[0.875rem] leading-[1.4rem] font-kasprnet-noto-sans-kr-demilight-13 text-tailwind-v332-gray-800 text-center">
+                        <div className="self-stretch relative text-[0.875rem] leading-[1.4rem] font-kasprnet-noto-sans-kr-demilight-14 text-tailwind-v332-gray-800 text-center">
                           연구윤리규정
                         </div>
                       </button>
                       <button className="cursor-pointer [border:none] py-[0rem] px-[0.125rem] bg-[transparent] w-[9.375rem] h-[3.125rem] flex flex-col items-center justify-center box-border min-w-[6.25rem] max-w-[9.375rem] lg:w-[6.25rem]">
-                        <div className="self-stretch relative text-[0.875rem] leading-[1.4rem] font-kasprnet-noto-sans-kr-demilight-13 text-tailwind-v332-gray-800 text-center">
+                        <div className="self-stretch relative text-[0.875rem] leading-[1.4rem] font-kasprnet-noto-sans-kr-demilight-14 text-tailwind-v332-gray-800 text-center">
                           PR연구
                         </div>
                       </button>
                       <button className="cursor-pointer [border:none] py-[0rem] px-[0.125rem] bg-[transparent] w-[9.375rem] h-[3.125rem] flex flex-col items-center justify-center box-border min-w-[6.25rem] max-w-[9.375rem] lg:w-[6.25rem]">
-                        <div className="self-stretch relative text-[0.875rem] leading-[1.4rem] font-kasprnet-noto-sans-kr-demilight-13 text-tailwind-v332-gray-800 text-center">
+                        <div className="self-stretch relative text-[0.875rem] leading-[1.4rem] font-kasprnet-noto-sans-kr-demilight-14 text-tailwind-v332-gray-800 text-center">
                           AJPR
                         </div>
                       </button>
                       <button className="cursor-pointer [border:none] py-[0rem] px-[0.125rem] bg-[transparent] w-[9.375rem] h-[3.125rem] flex flex-col items-center justify-center box-border min-w-[6.25rem] max-w-[9.375rem] lg:w-[6.25rem]">
-                        <div className="self-stretch relative text-[0.875rem] leading-[1.4rem] font-kasprnet-noto-sans-kr-demilight-13 text-tailwind-v332-gray-800 text-center">
+                        <div className="self-stretch relative text-[0.875rem] leading-[1.4rem] font-kasprnet-noto-sans-kr-demilight-14 text-tailwind-v332-gray-800 text-center">
                           PR연구 온라인 논문투고 ⬈
                         </div>
                       </button>
                       <button className="cursor-pointer [border:none] py-[0rem] px-[0.125rem] bg-[transparent] w-[9.375rem] h-[3.125rem] flex flex-col items-center justify-center box-border min-w-[6.25rem] max-w-[9.375rem] lg:w-[6.25rem]">
-                        <div className="self-stretch relative text-[0.875rem] leading-[1.4rem] font-kasprnet-noto-sans-kr-demilight-13 text-tailwind-v332-gray-800 text-center">
+                        <div className="self-stretch relative text-[0.875rem] leading-[1.4rem] font-kasprnet-noto-sans-kr-demilight-14 text-tailwind-v332-gray-800 text-center">
                           AJPR Online submission ⬈
                         </div>
                       </button>
                     </div>
                     <div className="flex-1 flex flex-col items-center justify-start lg:w-[6.25rem]">
                       <button className="cursor-pointer [border:none] py-[0rem] px-[0.125rem] bg-[transparent] w-[9.375rem] h-[3.125rem] flex flex-col items-center justify-center box-border min-w-[6.25rem] max-w-[9.375rem] lg:w-[6.25rem]">
-                        <div className="self-stretch relative text-[0.875rem] leading-[1.4rem] font-kasprnet-noto-sans-kr-demilight-13 text-tailwind-v332-gray-800 text-center">
+                        <div className="self-stretch relative text-[0.875rem] leading-[1.4rem] font-kasprnet-noto-sans-kr-demilight-14 text-tailwind-v332-gray-800 text-center">
                           회원동정
                         </div>
                       </button>
                       <button className="cursor-pointer [border:none] py-[0rem] px-[0.125rem] bg-[transparent] w-[9.375rem] h-[3.125rem] flex flex-col items-center justify-center box-border min-w-[6.25rem] max-w-[9.375rem] lg:w-[6.25rem]">
-                        <div className="self-stretch relative text-[0.875rem] leading-[1.4rem] font-kasprnet-noto-sans-kr-demilight-13 text-tailwind-v332-gray-800 text-center">
+                        <div className="self-stretch relative text-[0.875rem] leading-[1.4rem] font-kasprnet-noto-sans-kr-demilight-14 text-tailwind-v332-gray-800 text-center">
                           채용정보
                         </div>
                       </button>
                       <button className="cursor-pointer [border:none] py-[0rem] px-[0.125rem] bg-[transparent] w-[9.375rem] h-[3.125rem] flex flex-col items-center justify-center box-border min-w-[6.25rem] max-w-[9.375rem] lg:w-[6.25rem]">
-                        <div className="self-stretch relative text-[0.875rem] leading-[1.4rem] font-kasprnet-noto-sans-kr-demilight-13 text-tailwind-v332-gray-800 text-center">
+                        <div className="self-stretch relative text-[0.875rem] leading-[1.4rem] font-kasprnet-noto-sans-kr-demilight-14 text-tailwind-v332-gray-800 text-center">
                           외부공모 및 행사안내
                         </div>
                       </button>
                     </div>
                     <div className="flex-1 flex flex-col items-center justify-start lg:w-[6.25rem]">
                       <button className="cursor-pointer [border:none] py-[0rem] px-[0.125rem] bg-[transparent] w-[9.375rem] h-[3.125rem] flex flex-col items-center justify-center box-border min-w-[6.25rem] max-w-[9.375rem] lg:w-[6.25rem]">
-                        <div className="self-stretch relative text-[0.875rem] leading-[1.4rem] font-kasprnet-noto-sans-kr-demilight-13 text-tailwind-v332-gray-800 text-center">
+                        <div className="self-stretch relative text-[0.875rem] leading-[1.4rem] font-kasprnet-noto-sans-kr-demilight-14 text-tailwind-v332-gray-800 text-center">
                           회원가입안내
                         </div>
                       </button>
                       <button className="cursor-pointer [border:none] py-[0rem] px-[0.125rem] bg-[transparent] w-[9.375rem] h-[3.125rem] flex flex-col items-center justify-center box-border min-w-[6.25rem] max-w-[9.375rem] lg:w-[6.25rem]">
-                        <div className="self-stretch relative text-[0.875rem] leading-[1.4rem] font-kasprnet-noto-sans-kr-demilight-13 text-tailwind-v332-gray-800 text-center">
+                        <div className="self-stretch relative text-[0.875rem] leading-[1.4rem] font-kasprnet-noto-sans-kr-demilight-14 text-tailwind-v332-gray-800 text-center">
                           회원가입
                         </div>
                       </button>
                       <button className="cursor-pointer [border:none] py-[0rem] px-[0.125rem] bg-[transparent] w-[9.375rem] h-[3.125rem] flex flex-col items-center justify-center box-border min-w-[6.25rem] max-w-[9.375rem] lg:w-[6.25rem]">
-                        <div className="self-stretch relative text-[0.875rem] leading-[1.4rem] font-kasprnet-noto-sans-kr-demilight-13 text-tailwind-v332-gray-800 text-center">
+                        <div className="self-stretch relative text-[0.875rem] leading-[1.4rem] font-kasprnet-noto-sans-kr-demilight-14 text-tailwind-v332-gray-800 text-center">
                           연회비 납부현황
                         </div>
                       </button>
                       <button className="cursor-pointer [border:none] py-[0rem] px-[0.125rem] bg-[transparent] w-[9.375rem] h-[3.125rem] flex flex-col items-center justify-center box-border min-w-[6.25rem] max-w-[9.375rem] lg:w-[6.25rem]">
-                        <div className="self-stretch relative text-[0.875rem] leading-[1.4rem] font-kasprnet-noto-sans-kr-demilight-13 text-tailwind-v332-gray-800 text-center">
+                        <div className="self-stretch relative text-[0.875rem] leading-[1.4rem] font-kasprnet-noto-sans-kr-demilight-14 text-tailwind-v332-gray-800 text-center">
                           증명서 발급
                         </div>
                       </button>
                       <button className="cursor-pointer [border:none] py-[0rem] px-[0.125rem] bg-[transparent] w-[9.375rem] h-[3.125rem] flex flex-col items-center justify-center box-border min-w-[6.25rem] max-w-[9.375rem] lg:w-[6.25rem]">
-                        <div className="self-stretch relative text-[0.875rem] leading-[1.4rem] font-kasprnet-noto-sans-kr-demilight-13 text-tailwind-v332-gray-800 text-center">
+                        <div className="self-stretch relative text-[0.875rem] leading-[1.4rem] font-kasprnet-noto-sans-kr-demilight-14 text-tailwind-v332-gray-800 text-center">
                           개인정보보호정책
                         </div>
                       </button>
                     </div>
                     <div className="flex-1 flex flex-col items-center justify-start lg:w-[6.25rem]">
                       <button className="cursor-pointer [border:none] py-[0rem] px-[0.125rem] bg-[transparent] w-[9.375rem] h-[3.125rem] flex flex-col items-center justify-center box-border min-w-[6.25rem] max-w-[9.375rem] lg:w-[6.25rem]">
-                        <div className="self-stretch relative text-[0.875rem] leading-[1.4rem] font-kasprnet-noto-sans-kr-demilight-13 text-tailwind-v332-gray-800 text-center">
+                        <div className="self-stretch relative text-[0.875rem] leading-[1.4rem] font-kasprnet-noto-sans-kr-demilight-14 text-tailwind-v332-gray-800 text-center">
                           학술대회 자료집
                         </div>
                       </button>
                       <button className="cursor-pointer [border:none] py-[0rem] px-[0.125rem] bg-[transparent] w-[9.375rem] h-[3.125rem] flex flex-col items-center justify-center box-border min-w-[6.25rem] max-w-[9.375rem] lg:w-[6.25rem]">
-                        <div className="self-stretch relative text-[0.875rem] leading-[1.4rem] font-kasprnet-noto-sans-kr-demilight-13 text-tailwind-v332-gray-800 text-center">
+                        <div className="self-stretch relative text-[0.875rem] leading-[1.4rem] font-kasprnet-noto-sans-kr-demilight-14 text-tailwind-v332-gray-800 text-center">
                           세미나 자료집
                         </div>
                       </button>
                       <button className="cursor-pointer [border:none] py-[0rem] px-[0.125rem] bg-[transparent] w-[9.375rem] h-[3.125rem] flex flex-col items-center justify-center box-border min-w-[6.25rem] max-w-[9.375rem] lg:w-[6.25rem]">
-                        <div className="self-stretch relative text-[0.875rem] leading-[1.4rem] font-kasprnet-noto-sans-kr-demilight-13 text-tailwind-v332-gray-800 text-center">
+                        <div className="self-stretch relative text-[0.875rem] leading-[1.4rem] font-kasprnet-noto-sans-kr-demilight-14 text-tailwind-v332-gray-800 text-center">
                           영상 자료실
                         </div>
                       </button>
                       <button className="cursor-pointer [border:none] py-[0rem] px-[0.125rem] bg-[transparent] w-[9.375rem] h-[3.125rem] flex flex-col items-center justify-center box-border min-w-[6.25rem] max-w-[9.375rem] lg:w-[6.25rem]">
-                        <div className="self-stretch relative text-[0.875rem] leading-[1.4rem] font-kasprnet-noto-sans-kr-demilight-13 text-tailwind-v332-gray-800 text-center">
+                        <div className="self-stretch relative text-[0.875rem] leading-[1.4rem] font-kasprnet-noto-sans-kr-demilight-14 text-tailwind-v332-gray-800 text-center">
                           사진 자료실
                         </div>
                       </button>
@@ -301,7 +301,7 @@ const Test: NextPage = () => {
               학회 소개
             </h1>
           </div>
-          <div className="self-stretch flex flex-col items-center justify-center text-[1rem] font-kasprnet-noto-sans-kr-demilight-13">
+          <div className="self-stretch flex flex-col items-center justify-center text-[1rem] font-kasprnet-noto-sans-kr-demilight-14">
             <div className="self-stretch relative tracking-[1.5px] font-medium md:text-[0.75rem]">
               Korean Academic Society for Public Relations
             </div>

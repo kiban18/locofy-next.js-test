@@ -5,7 +5,6 @@ import HeaderAccount from "../components/header-account";
 import HeaderNavigation from "../components/header-navigation";
 import NavigationPopup from "../components/navigation-popup";
 import TitleSectionTypeA from "../components/title-section-type-a";
-import Footer from "../components/footer";
 
 const Greeting: NextPage = () => {
   return (
@@ -56,7 +55,13 @@ const Greeting: NextPage = () => {
           </h1>
         </div>
       </section>
-      <Footer />
+      <footer className="self-stretch bg-tailwind-v332-white flex flex-col items-center justify-start pt-[2.062rem] px-[0rem] pb-[3rem] text-center text-[1.875rem] text-tailwind-v332-black font-text-large border-t-[1px] border-solid border-tailwind-v332-neutral-300">
+        <div className="self-stretch flex flex-col items-center justify-start">
+          <h1 className="m-0 self-stretch relative text-inherit tracking-[-1px] leading-[3rem] font-semibold font-inherit">
+            FOOTER
+          </h1>
+        </div>
+      </footer>
     </div>
   );
 };
